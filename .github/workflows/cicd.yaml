@@ -11,7 +11,7 @@ jobs:
 
     env:
       REGISTRY: docker.io
-      IMAGE_NAME: swetha990/webapp
+      IMAGE_NAME: swethasrk/webapp
 
     steps:
       # Checkout
